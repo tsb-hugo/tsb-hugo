@@ -1,0 +1,4 @@
+baseURL = 'https://tsb-hugo.github.io/tsb-hugo/'
+languageCode = 'en-us'
+title = 'Toos Saw Blades'
+theme = 'airspace-hugo'
