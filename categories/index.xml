@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Toos Saw Blades</title>
-    <link>https://tsb-hugo.github.io/categories/</link>
+    <link>https://tsb-hugo.github.io/tsb-hugo/categories/</link>
     <description>Recent content in Categories on Toos Saw Blades</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://tsb-hugo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://tsb-hugo.github.io/tsb-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
